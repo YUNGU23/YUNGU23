@@ -31,7 +31,7 @@
 
 <div style="display: flex; justify-content: space-between; margin-right: 10px">
     <img src="https://github.com/YUNGU23/HobbyHub/raw/main/demo.gif" height="500">
-    <img src="https://github.com/YUNGU23/Community-Board/raw/main/demo-.gif" height="500">
+    <img src="https://github.com/YUNGU23/mern-bookstore/blob/main/user.gif?raw=true" height="500">
     
 </div>
 <br>
