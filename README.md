@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Next.js, TypeScript**
 
-- 📫 How to reach me **nerokucn@gmail.com**
+- 📫 How to reach me **yungu9023@gmail.com**
 
 - 🎓 Certification: <a href="https://www.linkedin.com/in/yun-gu/overlay/1635545202298/single-media-viewer/?profileId=ACoAABX6HgMBa7vuDWpHjd8uvwEp6CVS7YWIu24">**PMP**</a>  <a href="https://www.credly.com/badges/ff4f2522-5576-43d5-b934-2a28da408424/linked_in?t=sbi6gs">**AWS Certified Cloud Practitioner**</a>
 
